@@ -8,11 +8,9 @@ public class PrimeiroProjeto {
 		// TODO Auto-generated method stub
 		Livros livros = new Livros();
 		Gato gato = new Gato("Dean", "Gray", 10);
-		
-		
+				
 		System.out.println(livros);
 		System.out.println(gato);
-
 	}
 }
 
